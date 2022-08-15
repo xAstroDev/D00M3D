@@ -13,6 +13,9 @@
 - Remove script
 - more coming..
 
+## CHANGELOG
+- This Topic Has Moved <a href="https://github.com/xAstroDev/D00M3D/blob/main/changelog.md">Here</a>
+
 ## Requirements
 - Data connection
 
