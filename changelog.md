@@ -1,5 +1,5 @@
 <details>
-<summary>𝗩2.0.0 𝗖𝗢𝗗𝗗:15.8.2022</summary>
+<summary>𝗩2.0.0 𝗖𝗢𝗗𝗘:15.8.2022</summary>
 <br>
 -Fixed UI Problem
 <br>
