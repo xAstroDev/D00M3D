@@ -300,7 +300,7 @@ fi
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 echo -e "\e[103m     •••FOR MORE DETAILS•••. "
 echo -e "\e[103mSEARCH *GitHub.com/xAstroDev/D00M3D*"
-echo -e "\e[103m       •••Dont Forget To Star!•••      \e[49m"
+echo -e "\e[103m       •••Dont Forget To Star!❤️•••      \e[49m"
 echo -e " \e[39m"
 echo -e "\e[95m÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷"
 echo -e "\e[39m"
