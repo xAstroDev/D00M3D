@@ -15,6 +15,7 @@ apt-get update
 apt-get upgrade
 apt-get install python
 apt-get install python2
+git pull
 clear
 echo -e "$Green Created By \e[1;34m"
 figlet C0DE BREAK3RS | lolcat
