@@ -1,5 +1,5 @@
 <details>
-<summary> **V2.0.0 CODE:15.8.2022** </summary>
+<summary>𝗩2.0.0 𝗖𝗢𝗗𝗗:15.8.2022</summary>
 <br>
 -Fixed UI Problem
 <br>
@@ -8,7 +8,7 @@ Download <a herf="https://github.com/xAstroDev/D00M3D/releases/tag/v2.0.0">Here!
 </details>
 
 <details>
-<summary> **V2.1.0 CODE:16.8.2022 [HOTFIX!]** </summary>
+<summary>𝗩2.1.0 𝗖𝗢𝗗𝗘:16.8.2022 𝗛𝗢𝗧𝗙𝗜𝗫!</summary>
 <br>
 -Various Bug Fixes
 <br>
@@ -17,4 +17,4 @@ Download <a herf="https://github.com/xAstroDev/D00M3D/releases/tag/v2.0.0">Here!
 -Fixed Buggy Text
 <br>
 -No More 🪲!
-</details>
+Download <a herf="https://github.com/xAstroDev/D00M3D/releases/tag/2.1.0"></a>
